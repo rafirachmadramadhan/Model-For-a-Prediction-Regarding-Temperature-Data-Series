@@ -1,17 +1,17 @@
 <h1 align="center">
-Model classify comments according to emotion
+Model For a Prediction Regarding Temperature Data Series
 </h1>
 
 <p align="center">
-Model klasifikasi emosi adalah sebuah sistem kecerdasan buatan yang mampu mengidentifikasi dan mengkategorikan emosi yang terkandung dalam teks, seperti komentar, ulasan, atau postingan media sosial. Model ini dilatih menggunakan algoritme pembelajaran mesin dan data teks yang telah diberi label emosi, seperti "bahagia", "sedih", "marah", "netral", dan sebagainya.
+Hanya sekedar model untuk mencoba LSTM (Long Short Term Memory) apakah mampu membuat model yang mempunyai MAE < 10% skala data. Hasilnya menunjukkan target MAE < 10% dicapai dalam satu epoch
 </p>
 
 <h2 align="center">
-Preview Model
+Preview Data
 </h2>
 <p align="center">
-  <img width="45%" alt="Afine" title="Afine" src="screenshots/1.png"/>
-  <img width="45%" alt="Afine" title="Afine" src="screenshots/2.png"/>
+  <img width="95%" alt="Temperature" title="Temperature" src="screenshots/1.png"/>
+  <!-- <img width="45%" alt="Temperature" title="Temperature" src="screenshots/2.png"/> -->
 
   <!-- <img width="45%" alt="Afine" title="Afine" src="screenshots/3.png"/>
   <img width="45%" alt="Afine" title="Afine" src="screenshots/4.png"/> -->
